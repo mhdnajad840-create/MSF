@@ -1,0 +1,28 @@
+body {
+  background:#111;
+  color:white;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+  font-family:Arial;
+}
+
+.box {
+  text-align:center;
+}
+
+input, button {
+  padding:10px;
+  width:200px;
+  margin-top:10px;
+}
+
+.link {
+  color:#aaa;
+  cursor:pointer;
+  font-size:12px;
+}
+.link:hover {
+  text-decoration:underline;
+}
